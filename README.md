@@ -1,7 +1,7 @@
 # FashionImagesClassificationUsingCNN
-This project aims to classify fashion images into one of 4 categories: `Apparel`, `Accessories`, `Personal Care`, `Footwear`.
-train.csv has the images id of training data.
-test.csv has the images id of test data.
+This project aims to classify fashion images into one of 4 categories: `Apparel`, `Accessories`, `Personal Care`, `Footwear`.<br/>
+train.csv has the images id of training data.<br/>
+test.csv has the images id of test data.<br/>
 Image id the filename of image from images folder.
 
 ## Data
